@@ -1,4 +1,4 @@
-# TA1300
+# slex
 + DyAc - Premium
 + Black - 5
 + Color - 15
@@ -9,3 +9,5 @@
 + Sharpness - 7
 + Gamma - 2
 + Color Temp. - Bluish
+
+-language english -novid -freq 240 -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -console -exec autoexec.cfg 
